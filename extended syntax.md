@@ -101,14 +101,13 @@ example:
 You can then link heading swith custom ids. These are known as anchor links. other sites can link to the heading by adding the custom heading ID to the URL of the webpage.
 
 ```
-### Chapter 2{#chapter2}
-<a href="#chapter2">Chapter 2</a>
+### My Great Heading {#custom-id}
 ```
 
-### My Great Heading {#custom-id}
-
-
 I am referencing my [header](#custom-id) here!  
+
+
+
 
 
 
