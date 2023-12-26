@@ -1,6 +1,6 @@
 ## 1. Syntax Fundamentals: Mastering the foundational elements of Markdown, from headers and lists to links and images.
 
-Since MD does not support commenets, Comments will be written as shown below:
+Since MD does not support comments, Comments will be written as shown below:
 - this is a comment
 
 ### headings
